@@ -1,0 +1,20 @@
+{
+  "name": "nodeandphp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaGingaNinja87/node-hello.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaGingaNinja87/node-hello/issues"
+  },
+  "homepage": "https://github.com/DaGingaNinja87/node-hello#readme"
+}
