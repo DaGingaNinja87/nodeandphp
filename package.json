@@ -4,7 +4,7 @@
   "description": "An example of how to set your Node.js application up to enable deployment on Kinsta App Hosting services.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "MIT",
